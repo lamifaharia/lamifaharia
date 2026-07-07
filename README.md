@@ -1,12 +1,8 @@
-# <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Faharia+Lami+%F0%9F%91%8B;Aspiring+Full-Stack+Developer;Passionate+About+Building+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
-
-</div>
-
 <div align="center">
 
-### 💜 Turning ideas into interactive web experiences
+# Hi there, I'm Faharia Lami 👋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Aspiring+Full-Stack+Developer;Computer+Science+Student;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies" />
 
 </div>
 
@@ -16,15 +12,13 @@
 
 🎓 Final-year Computer Science student
 
-💻 Aspiring Full-Stack Developer with a passion for creating clean and user-friendly web applications
+💻 Passionate about building efficient and user-friendly web applications
 
-🌱 Currently exploring **Next.js** and modern web technologies
+🚀 Currently exploring **Next.js** and modern frontend technologies
 
-🚀 Building and deploying real-world projects
+🌱 Constantly learning and improving my development skills
 
-📚 Always learning, improving, and embracing new challenges
-
-⚡ Fun fact: I love solving problems, learning new technologies, and creating beautiful user experiences.
+🔨 Building real-world projects and deploying them online
 
 ---
 
@@ -32,7 +26,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,git,github,vscode" />
 
 </div>
 
@@ -42,9 +36,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lamifaharia&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lamifaharia&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamifaharia&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamifaharia&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -54,7 +48,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lamifaharia&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=lamifaharia&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -70,13 +64,25 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 🐾 WarmPaws
 
-A modern web application focused on helping pet lovers connect and engage with pet-related services.
+A modern pet-care platform built with modern web technologies.
 
 **Tech Used:** React • Node.js • Express • MongoDB
+
+### 🩸 Blood Donation App
+
+A full-stack blood donation management platform.
+
+**Tech Used:** React • Firebase • Express • MongoDB
+
+### 🤖 AI Model Inventory Manager
+
+Manage and organize AI models with CRUD functionality.
+
+**Tech Used:** React • Node.js • MongoDB
 
 ---
 
@@ -88,6 +94,20 @@ A modern web application focused on helping pet lovers connect and engage with p
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<a href="https://www.linkedin.com/in/faharia-lami-7246b2269/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 📊 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=lamifaharia&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+
 </div>
 
 ---
@@ -95,7 +115,5 @@ A modern web application focused on helping pet lovers connect and engage with p
 <div align="center">
 
 ### 💜 Thanks for visiting my profile!
-
-<img src="https://komarev.com/ghpvc/?username=lamifaharia&label=Profile+Views&color=8A2BE2&style=for-the-badge" />
 
 </div>
