@@ -1,97 +1,132 @@
 <div align="center">
 
-# ✨ Faharia Lami
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Faharia%20Lami&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Final-Year%20CS%20Student&descAlignY=55&descSize=18" width="100%"/>
 
-### 🌷 Aspiring Full-Stack Developer
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=const+dev+%3D+%7B+name%3A+%22Faharia%22+%7D%3B;Building+with+React+%2B+Node.js+%2B+MongoDB;console.log(%22Shipping+features%2C+not+excuses%22);;Currently+exploring+Next.js+%E2%9A%A1" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&pause=1200&color=FF69B4&center=true&vCenter=true&width=700&lines=Final-Year+Computer+Science+Student;Building+Modern+Web+Applications;React+%7C+Node.js+%7C+MongoDB;Learning+Next.js+and+Growing+Every+Day+🌸" />
-
-</div>
-
----
-
-## 🌸 About Me
-
-<img align="right" width="280" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-
-🎓 Final-Year Computer Science Student
-
-💻 Passionate about building modern, responsive, and user-friendly web applications
-
-🌱 Currently exploring **Next.js** and advanced frontend development
-
-🚀 Working on impactful projects and strengthening my full-stack skills
-
-✨ Interested in Web Development, Databases, and Software Engineering
-
-☕ Powered by curiosity and a little bit of coffee
-
-<br clear="right"/>
-
----
-
-## 💖 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,git,github,vscode" />
-
-</div>
-
----
-
-## 🌷 Featured Projects
-
-### 🐾 WarmPaws
-A modern platform designed to help pet owners access useful resources and services.
-
-### 🩸 Blood Donation Platform
-A full-stack application connecting blood donors with recipients efficiently.
-
-### 🤖 AI Model Inventory Manager
-A CRUD-based platform for managing and organizing AI models.
-
----
-
-## ✨ Currently Learning
-
-```text
-🌸 Next.js
-🌸 TypeScript
-🌸 Advanced React Patterns
-🌸 Backend Architecture
-```
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lamifaharia&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
+<br/>
 
 <a href="https://github.com/lamifaharia">
-<img src="https://img.shields.io/badge/GitHub-2D2D2D?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/faharia-lami-7246b2269/">
-<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<img src="https://komarev.com/ghpvc/?username=lamifaharia&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
 
 </div>
 
----
+<br/>
+
+## 🧬 `whoami`
+
+```yaml
+name: Faharia Lami
+role: Full-Stack Developer (in training) 🎓
+status: Final-Year Computer Science Student
+focus: Building modern, responsive, user-first web apps
+currently_learning: [Next.js, TypeScript, Advanced React Patterns, Backend Architecture]
+fuel: ☕ curiosity + coffee
+fun_fact: "I debug faster than I admit my bugs exist"
+```
+
+<br/>
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 🌸 "Creating technology with creativity, curiosity, and purpose."
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
 
-<img src="https://komarev.com/ghpvc/?username=lamifaharia&label=Profile%20Views&color=ff69b4&style=flat" />
+<br/><br/>
+
+**Backend & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+
+<br/><br/>
+
+**Tools & Workflow**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+
+</div>
+
+<br/>
+
+## 🚀 Featured Builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🐾 WarmPaws
+A modern platform helping pet owners discover trusted resources and services in one place — because every paw deserves easy care.
+
+`React` `Node.js` `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+### 🩸 Blood Donation Platform
+A full-stack application that connects blood donors with recipients efficiently, turning urgency into action.
+
+`MERN Stack` `Real-time Matching`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Model Inventory Manager
+A clean CRUD-based system for organizing, tracking, and managing AI models at scale.
+
+`Full CRUD` `Dashboard UI`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 More on the way...
+Currently prototyping new ideas with Next.js and TypeScript. Check back soon!
+
+`Next.js` `TypeScript`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=lamifaharia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lamifaharia&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lamifaharia&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+<br/>
+
+## 🎯 2026 Roadmap
+
+- [x] Master the MERN stack
+- [x] Ship real-world projects (WarmPaws, Blood Donation, AI Inventory Manager)
+- [ ] Go deep on Next.js & Server Components
+- [ ] Level up TypeScript across all projects
+- [ ] Contribute to open source
+- [ ] Land my first full-stack role
+
+<br/>
+
+<div align="center">
+
+### 💬 "Creating technology with creativity, curiosity, and purpose."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
