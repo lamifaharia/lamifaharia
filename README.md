@@ -1,4 +1,3 @@
-github-actions-workflow
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Faharia%20Lami&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Final-Year%20CS%20Student&descAlignY=55&descSize=18" width="100%"/>
@@ -21,7 +20,7 @@ github-actions-workflow
 
 ## 🧬 `whoami`
 
-yaml
+```yaml
 name: Faharia Lami
 role: Full-Stack Developer (in training) 🎓
 status: Final-Year Computer Science Student
@@ -29,7 +28,7 @@ focus: Building modern, responsive, user-first web apps
 currently_learning: [Next.js, TypeScript, Advanced React Patterns, Backend Architecture]
 fuel: ☕ curiosity + coffee
 fun_fact: "I debug faster than I admit my bugs exist"
-
+```
 
 <br/>
 
@@ -131,3 +130,4 @@ Currently prototyping new ideas with Next.js and TypeScript. Check back soon!
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
+
