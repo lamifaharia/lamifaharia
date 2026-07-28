@@ -18,19 +18,36 @@
 
 <table>
 <tr>
-<td width="70%">
+<td align="center" width="600">
 
-<h3>Frontend Developer | CSE Student</h3>
+<h3>
+<span style="color:#F4C430;">Frontend Developer</span> 
+<span style="color:#8b5cf6;">|</span> 
+<span style="color:#ffffff;">CSE Student</span>
+</h3>
+
+<br/>
 
 <p>
-I build clean, responsive, and user-focused web experiences using modern frontend technologies.
+<span style="color:#c4b5fd;">
+Building clean, responsive, and engaging web experiences
+</span>
+<br/>
+<span style="color:#F4C430;">
+with modern frontend technologies.
+</span>
 </p>
 
+<br/>
+
 <p>
-React & Next.js enthusiast <br/>
-Passionate about UI/UX and creative interfaces <br/>
-Exploring Full Stack Development <br/>
-Always learning, building, and improving
+<b style="color:#F4C430;">React & Next.js</b> Enthusiast
+<br/>
+<b style="color:#8b5cf6;">UI/UX</b> & Creative Interface Focused
+<br/>
+<b style="color:#F4C430;">Exploring</b> Full Stack Development
+<br/>
+<b style="color:#8b5cf6;">Continuously Learning</b> & Improving
 </p>
 
 </td>
