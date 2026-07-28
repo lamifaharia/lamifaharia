@@ -12,23 +12,32 @@
 <br/>
 
 
-##  About Me
+## About Me
 
 <div align="center">
 
-###  Frontend Developer | CSE Student
+<table>
+<tr>
+<td width="70%">
 
-Building clean, responsive, and engaging web experiences with modern technologies.
+<h3>Frontend Developer | CSE Student</h3>
 
-<br/>
+<p>
+I build clean, responsive, and user-focused web experiences using modern frontend technologies.
+</p>
 
-React • Next.js • Tailwind CSS  
-Passionate about UI/UX & creative interfaces  
-Exploring Full Stack Development  
-Always exploring, learning and improving
+<p>
+React & Next.js enthusiast <br/>
+Passionate about UI/UX and creative interfaces <br/>
+Exploring Full Stack Development <br/>
+Always learning, building, and improving
+</p>
+
+</td>
+</tr>
+</table>
 
 </div>
-
 
 <br/>
 
