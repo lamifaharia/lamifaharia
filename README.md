@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm Faharia 👋
-
-**Full-Stack Developer** building with React, Node.js & MongoDB
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:FF69B4&height=180&section=header&text=Faharia%20Lami&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer&descAlignY=60&descSize=18"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Turning+ideas+into+web+apps;React+%7C+Node.js+%7C+MongoDB" />
 
@@ -38,6 +36,6 @@
 
 <br>
 
-<div align="center">
-<sub>✨ Thanks for stopping by</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FFB6C1&height=100&section=footer"/>
+
 </div>
