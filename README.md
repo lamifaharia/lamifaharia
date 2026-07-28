@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/lamifaharia/lamifaharia/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+<img src="https://raw.githubusercontent.com/lamifaharia/lamifaharia/output/contribution-graph-tetris.svg" alt="contribution graph tetris animation"/>
 
 </div>
 
