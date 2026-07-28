@@ -8,59 +8,40 @@
 
 </div>
 
-
 <br/>
-
 
 ## About Me
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Frontend%20Developer-8b5cf6?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSE%20Student-F4C430?style=for-the-badge&logoColor=black"/>
+
+<br/><br/>
+
 <table>
 <tr>
 <td align="center" width="600">
 
-<h3>
-<span style="color:#F4C430;">Frontend Developer</span> 
-<span style="color:#8b5cf6;">|</span> 
-<span style="color:#ffffff;">CSE Student</span>
-</h3>
-
-<br/>
-
-<p>
-<span style="color:#c4b5fd;">
-Building clean, responsive, and engaging web experiences
-</span>
-<br/>
-<span style="color:#F4C430;">
-with modern frontend technologies.
-</span>
-</p>
-
-<br/>
-
-<p>
-<b style="color:#F4C430;">React & Next.js</b> Enthusiast
-<br/>
-<b style="color:#8b5cf6;">UI/UX</b> & Creative Interface Focused
-<br/>
-<b style="color:#F4C430;">Exploring</b> Full Stack Development
-<br/>
-<b style="color:#8b5cf6;">Continuously Learning</b> & Improving
-</p>
+Building clean, responsive, and engaging web experiences with modern frontend technologies.
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+<img src="https://img.shields.io/badge/React%20%26%20Next.js-Enthusiast-8b5cf6?style=flat-square"/>
+<img src="https://img.shields.io/badge/UI%2FUX-Creative%20Interface%20Focused-F4C430?style=flat-square&labelColor=070812"/>
+<br/>
+<img src="https://img.shields.io/badge/Exploring-Full%20Stack%20Development-8b5cf6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Mindset-Continuously%20Learning-F4C430?style=flat-square&labelColor=070812"/>
+
 </div>
 
 <br/>
 
-
 ## Tech Stack
-
 
 <div align="center">
 
@@ -68,9 +49,7 @@ with modern frontend technologies.
 
 </div>
 
-
 <br/>
-
 
 # GitHub Streak
 
@@ -80,9 +59,7 @@ with modern frontend technologies.
 
 </div>
 
-
 <br/>
-
 
 # Coding Activity
 
@@ -92,9 +69,7 @@ with modern frontend technologies.
 
 </div>
 
-
 <br/>
-
 
 # Connect With Me
 
@@ -114,13 +89,11 @@ with modern frontend technologies.
 
 </div>
 
-
 <br/>
-
 
 <div align="center">
 
-### Keep Learning. Keep Building. 
+### Keep Learning. Keep Building.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070812,50:8b5cf6,100:F4C430&height=120&section=footer"/>
 
