@@ -16,31 +16,18 @@
 
 <div align="center">
 
- **Frontend Developer | CSE Student | Problem Solver** 
+###  Frontend Developer | CSE Student
 
-</div>
-
-<br/>
-
-I'm **Faharia Lami**, a Computer Science & Engineering student passionate about creating modern, responsive, and user-friendly web experiences.
-
-I enjoy turning ideas into interactive interfaces using **React, Next.js, and modern frontend technologies**. I love exploring new tools, improving my skills, and building projects that solve real-world problems.
-
-<div align="center">
-
-|  Education |  Focus |  Growth |
-| :---: | :---: | :---: |
-| CSE Student | Frontend Development | Full Stack Journey |
-| Learning Software Engineering | React Ecosystem | Continuous Improvement |
-
-</div>
+Building clean, responsive, and engaging web experiences with modern technologies.
 
 <br/>
 
-- Building clean and reusable UI components
-- Interested in modern web design and user experience
-- Exploring backend technologies to become a full-stack developer
-- Always learning, experimenting, and improving
+React • Next.js • Tailwind CSS  
+Passionate about UI/UX & creative interfaces  
+Exploring Full Stack Development  
+Always exploring, learning and improving
+
+</div>
 
 
 <br/>
@@ -107,7 +94,7 @@ I enjoy turning ideas into interactive interfaces using **React, Next.js, and mo
 
 <div align="center">
 
-### ✨ Keep Learning. Keep Building. ✨
+### Keep Learning. Keep Building. 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070812,50:8b5cf6,100:F4C430&height=120&section=footer"/>
 
