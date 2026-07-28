@@ -1,41 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:FF69B4&height=180&section=header&text=Faharia%20Lami&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Faharia%20Lami&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Developer&descAlignY=62&descSize=16&descColor=cfcfcf"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Turning+ideas+into+web+apps;React+%7C+Node.js+%7C+MongoDB" />
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=400&size=16&duration=4000&pause=1500&color=B8B8B8&center=true&vCenter=true&width=450&lines=React+%C2%B7+Node.js+%C2%B7+MongoDB;Building+quietly%2C+shipping+often." />
+
+<br><br>
 
 <a href="https://github.com/lamifaharia">
-<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/faharia-lami-7246b2269/">
-<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="mailto:lamifaharia@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+<img src="https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+<br><br>
 
-<br>
+<img src="https://raw.githubusercontent.com/lamifaharia/lamifaharia/output/contribution-graph-tetris.svg" alt="contribution graph"/>
 
-<div align="center">
+<br><br>
 
-<img src="https://raw.githubusercontent.com/lamifaharia/lamifaharia/output/contribution-graph-tetris.svg" alt="contribution graph tetris animation"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-**Currently exploring:** Next.js & TypeScript
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,tailwind,ts,firebase"/>
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FFB6C1&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
 
 </div>
