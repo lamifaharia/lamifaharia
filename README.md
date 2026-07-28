@@ -12,21 +12,41 @@
 <br/>
 
 
-## 👩‍💻 About Me
+##  About Me
 
-Hi, I'm **Faharia Lami** ✨
+<div align="center">
 
-- 🎓 Computer Science & Engineering Student
-- 💻 Frontend Developer passionate about React ecosystem
-- 🌱 Currently exploring Full Stack Development
-- 🚀 Love creating clean and interactive user interfaces
-- 📚 Always learning and improving my skills
+ **Frontend Developer | CSE Student | Problem Solver** 
+
+</div>
+
+<br/>
+
+I'm **Faharia Lami**, a Computer Science & Engineering student passionate about creating modern, responsive, and user-friendly web experiences.
+
+I enjoy turning ideas into interactive interfaces using **React, Next.js, and modern frontend technologies**. I love exploring new tools, improving my skills, and building projects that solve real-world problems.
+
+<div align="center">
+
+|  Education |  Focus |  Growth |
+| :---: | :---: | :---: |
+| CSE Student | Frontend Development | Full Stack Journey |
+| Learning Software Engineering | React Ecosystem | Continuous Improvement |
+
+</div>
+
+<br/>
+
+- Building clean and reusable UI components
+- Interested in modern web design and user experience
+- Exploring backend technologies to become a full-stack developer
+- Always learning, experimenting, and improving
 
 
 <br/>
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 
 <div align="center">
@@ -39,7 +59,7 @@ Hi, I'm **Faharia Lami** ✨
 <br/>
 
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <div align="center">
 
@@ -51,8 +71,7 @@ Hi, I'm **Faharia Lami** ✨
 <br/>
 
 
-# 📈 Coding Activity
-
+# Coding Activity
 
 <div align="center">
 
@@ -64,60 +83,20 @@ Hi, I'm **Faharia Lami** ✨
 <br/>
 
 
-# 📊 GitHub Stats
+# Connect With Me
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=lamifaharia&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lamifaharia&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-
-<br/>
-
-
-# 🌱 Currently Learning
-
-
-<div align="center">
-
-✨ Advanced React Patterns  
-✨ Backend Development  
-✨ Database Design  
-✨ Software Architecture  
-
-</div>
-
-
-<br/>
-
-
-# 📅 My Coding Journey
-
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lamifaharia&theme=tokyonight"/>
-
-</div>
-
-
-<br/>
-
-
-# 🌐 Connect With Me
-
-
-<div align="center">
+<a href="https://github.com/lamifaharia">
+  <img src="https://img.shields.io/badge/GitHub-070812?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+  <img src="https://img.shields.io/badge/Email-F4C430?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
 
 </div>
